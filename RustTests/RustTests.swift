@@ -14,3 +14,5 @@ struct RustTests {
     }
 
 }
+
+//Example
